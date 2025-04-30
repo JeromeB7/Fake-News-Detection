@@ -27,6 +27,5 @@ This project uses a deep learning model to classify political statements as *tru
 ## 📂 Files
 - `train.tsv`, `valid.tsv`, `test.tsv`: Input datasets.
 - `glove.6B.300d.txt`: Pretrained embeddings.
-- `best_model.keras`: Saved model checkpoint.
-- `metrics.txt`, `confusion_matrix.png`, `loss_curves.png`: Evaluation outputs.
+
 
